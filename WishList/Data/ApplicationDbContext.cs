@@ -10,6 +10,7 @@ namespace WishList.Data
         {
         }
 
+       
         public DbSet<Models.Item> Items { get; set; }
     }
 }
